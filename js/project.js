@@ -49,3 +49,5 @@ console.log(`https://someurl/${category}/4`);
 const isChecked = true,
       isWillcheck = true;
       console.log(!isChecked && isWillcheck);
+
+      console.log("Privet");
